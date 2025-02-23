@@ -27,8 +27,6 @@ ggplot2 & Lattice (Data Visualization)
 ## Contributors:
 Shaden Alturki
 
-Najd Alnasser
-
 Reem Alnasser
 
-Rooad Alhabib
+Wijdan Alhashim
