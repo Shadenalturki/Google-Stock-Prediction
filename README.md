@@ -1,5 +1,5 @@
 # Google Stock Prediction – Closing Price Analysis
-## 📌 View the Project Online  
+## View the Project Notebook  
 [Click here to view the R Notebook](https://shadenalturki.github.io/Google-Stock-Prediction/index.html)
 
 ## Project Motivation
