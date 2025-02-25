@@ -24,7 +24,9 @@ This project utilizes R programming to analyze and predict Google's stock price 
 
 ## Technologies Used
 R Programming (Data Cleaning, Visualization, Machine Learning)
+
 Caret & mlbench (Feature Selection & Correlation Analysis)
+
 ggplot2 & Lattice (Data Visualization)
 
 ## Contributors:
