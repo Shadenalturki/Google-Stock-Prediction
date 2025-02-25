@@ -9,17 +9,18 @@ Google is one of the largest most influential and successful technology companie
 This project utilizes R programming to analyze and predict Google's stock price trends by applying data cleaning, feature selection, and visualization techniques.
 
 ## Key Features & Techniques
-Data Loading & Exploration – Reads and summarizes Google's stock data.
 
-Data Cleaning – Detects and removes null values and outliers to improve accuracy.
+• Data Loading & Exploration – Reads and summarizes Google's stock data.
 
-Visualization – Uses histograms, scatter plots, and box plots to analyze trends.
+• Data Cleaning – Detects and removes null values and outliers to improve accuracy.
 
-Feature Selection – Implements correlation matrices and Recursive Feature Elimination (RFE) for optimal predictor selection.
+• Visualization – Uses histograms, scatter plots, and box plots to analyze trends.
 
-Data Normalization – Applies min-max scaling to standardize stock attributes.
+• Feature Selection – Implements correlation matrices and Recursive Feature Elimination (RFE) for optimal predictor selection.
 
-Discretization – Categorizes trading volume into low, medium, and high levels.
+• Data Normalization – Applies min-max scaling to standardize stock attributes.
+
+• Discretization – Categorizes trading volume into low, medium, and high levels.
 
 ## Technologies Used
 R Programming (Data Cleaning, Visualization, Machine Learning)
